@@ -1,11 +1,3 @@
-# Project name
+# I'm an Azure developer, why care about Power Platform?
 
-What is this about
-
-# Set up
-
-This is what you need to do to run it yourself
-
-# Sample usage
-
-See what it does
+This repository contains the sample applications and other assets which are used in my session called "I'm an Azure developer, why care about Power Platform?".
