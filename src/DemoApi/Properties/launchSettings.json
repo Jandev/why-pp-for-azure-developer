@@ -17,6 +17,16 @@
       "applicationUrl": "https://localhost:7095;http://localhost:5221",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "DemoApi Tunneled": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7095;http://localhost:5221",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
       },
       // https://learn.microsoft.com/en-us/connectors/custom-connectors/port-tunneling
       "devTunnelEnabled": true,
